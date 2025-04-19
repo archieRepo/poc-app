@@ -1,0 +1,13 @@
+
+.users-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.user-container {
+    display: inline-block;
+    width: 250px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #000;
+}

@@ -34,3 +34,12 @@
     transform: rotate(360deg);
   }
 }
+
+.flex-3items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-3items div {
+  flex-basis: 33.33%;
+}

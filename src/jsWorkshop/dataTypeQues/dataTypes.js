@@ -7,7 +7,7 @@ console.log(typeof var1); // undefined
 
 let var2 = null;
 console.log(var2); //null
-console.log(typeof var2); //null
+console.log(typeof var2); //object
 
 
 console.log(typeof NaN); // object
@@ -24,4 +24,10 @@ object
 
 number
 
+*/
+
+/*
+
+undefined is something that we can not assign to a variable
+but null we can assign to a variable
 */

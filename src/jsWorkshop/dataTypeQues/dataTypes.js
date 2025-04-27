@@ -28,6 +28,6 @@ number
 
 /*
 
-undefined is something that we can not assign to a variable
-but null we can assign to a variable
+undefined is something that a variable is defined but value is not assigned to that variable
+but null is a value that we assign to a variable
 */

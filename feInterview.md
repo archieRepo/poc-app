@@ -195,7 +195,7 @@ export default Parent;
 13. for unit testing what you have used
 14. how do you make deepcopy of and object apart from destructring and JSON.parse(JSON.stringyfy) any other method you could think. will it do deepcopy of nested object also?
 15. what is useMemo amd useCallback
-
+16. when do we use useRef tell me the use case
 
 wallmart ques pattern
 make api call and filter it out with some condition. and list it out

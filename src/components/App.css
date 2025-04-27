@@ -41,5 +41,5 @@
 }
 
 .flex-3items div {
-  flex-basis: 33.33%;
+  flex-basis: 33.33%;/* flex-basis 0 , flex-srink 0 flex-width 33.33%*/
 }

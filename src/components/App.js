@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import User from './user';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
             <div>item5</div>
             <div>item6</div>
         </div>
+        <User />
       </header>
     </div>
   );

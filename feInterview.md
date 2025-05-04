@@ -223,6 +223,40 @@ Q13. what is custom hooks in react
 Q14. what are other ways to store data in react
 Q15. you have used react with typescript or es6
 
+//Santhosh JPMC client round
+
+self intro each other
+
+Q1. what was your role in the last project. is it only in development or planing and discussion
+Q2. for the web page what are the things you will consider while designing
+Q3. you said about performace how do you consider it in web page
+Q4. how images affect performance
+Q5. how do you handle request forgery. you are in same domain but another person is requesting the data.
+csr token
+Q6.  do you also work in css html
+Q7. we have unit px, rem, rm in css. what is different between them
+Q8. what is dependency inversion. solid design principle
+Q9. can just name solid design principles. like cycle
+Q10 suppose lets say you are using 3rd party library and suddenly that has varnabarty and then you are asked to change it so how you will design that 3rd party library.
+Q11. imagine you have implamented adobe analytics and suppose it ended service tomorrow so we have to swich to google analytics. because it is very less time to change it so which design priniple you will follow to stop losses 
+Q12. how comfortable you are with typescript
+Q13. how about stackless in react
+Q14. how about container architecture 
+Q15. lets build a form or todo app, there will be name age and add button and we click on add buttom so data should be added in the bottom table.
+lets follow smart app or damb architecture as good as possible so they can be freely used component 
+so rather than making adding api calls in the component just make it out side.
+
+the form sould be a seperate component 
+so lets apporch a design principle while you are building
+okay
+rather than developing just give me an idea how you will aproch as we have time constrain I think coding will take some time so just explain.
+
+ans: explained using context api 
+
+when you click add button then you create action on click then handle using context
+so redux also needed or not in this?
+
+
 
 wallmart ques pattern
 make api call and filter it out with some condition. and list it out

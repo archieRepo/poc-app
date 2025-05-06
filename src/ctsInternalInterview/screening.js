@@ -79,5 +79,5 @@ it will print infintly(5) after each 100 milli seconds
 */
 
 //Q3. show me how you implement redux in react application reducers, actions and store and config do all these basic coding setup
-//Q4. how you will access or update state without using mapStateToProps and mapDispachToProps method of connect hoc.
+//Q4. how you will access or update state without using mapStateToProps and mapDispachToProps method of connect HOC.
 //Ans using useDispacher and useSelector hooks of react-redux package
